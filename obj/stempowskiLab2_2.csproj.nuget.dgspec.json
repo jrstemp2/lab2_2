@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JSTEMPOWSKI\\OneDrive - KNEX\\Desktop\\Dev.Build\\Grand Circus\\Labs\\lab2_2\\stempowskiLab2_2\\stempowskiLab2_2.csproj": {}
+    "C:\\Users\\JSTEMPOWSKI\\OneDrive - KNEX\\Desktop\\Dev.Build\\GrandCircus\\Labs\\lab2_2\\stempowskiLab2_2\\stempowskiLab2_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JSTEMPOWSKI\\OneDrive - KNEX\\Desktop\\Dev.Build\\Grand Circus\\Labs\\lab2_2\\stempowskiLab2_2\\stempowskiLab2_2.csproj": {
+    "C:\\Users\\JSTEMPOWSKI\\OneDrive - KNEX\\Desktop\\Dev.Build\\GrandCircus\\Labs\\lab2_2\\stempowskiLab2_2\\stempowskiLab2_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JSTEMPOWSKI\\OneDrive - KNEX\\Desktop\\Dev.Build\\Grand Circus\\Labs\\lab2_2\\stempowskiLab2_2\\stempowskiLab2_2.csproj",
+        "projectUniqueName": "C:\\Users\\JSTEMPOWSKI\\OneDrive - KNEX\\Desktop\\Dev.Build\\GrandCircus\\Labs\\lab2_2\\stempowskiLab2_2\\stempowskiLab2_2.csproj",
         "projectName": "stempowskiLab2_2",
-        "projectPath": "C:\\Users\\JSTEMPOWSKI\\OneDrive - KNEX\\Desktop\\Dev.Build\\Grand Circus\\Labs\\lab2_2\\stempowskiLab2_2\\stempowskiLab2_2.csproj",
+        "projectPath": "C:\\Users\\JSTEMPOWSKI\\OneDrive - KNEX\\Desktop\\Dev.Build\\GrandCircus\\Labs\\lab2_2\\stempowskiLab2_2\\stempowskiLab2_2.csproj",
         "packagesPath": "C:\\Users\\JSTEMPOWSKI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JSTEMPOWSKI\\OneDrive - KNEX\\Desktop\\Dev.Build\\Grand Circus\\Labs\\lab2_2\\stempowskiLab2_2\\obj\\",
+        "outputPath": "C:\\Users\\JSTEMPOWSKI\\OneDrive - KNEX\\Desktop\\Dev.Build\\GrandCircus\\Labs\\lab2_2\\stempowskiLab2_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

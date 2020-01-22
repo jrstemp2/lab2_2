@@ -9,3 +9,14 @@ C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\Dev.Build\Grand Circus\Labs\lab2_2\
 C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\Dev.Build\Grand Circus\Labs\lab2_2\stempowskiLab2_2\obj\Debug\netcoreapp3.1\stempowskiLab2_2.AssemblyInfo.cs
 C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\Dev.Build\Grand Circus\Labs\lab2_2\stempowskiLab2_2\obj\Debug\netcoreapp3.1\stempowskiLab2_2.dll
 C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\Dev.Build\Grand Circus\Labs\lab2_2\stempowskiLab2_2\obj\Debug\netcoreapp3.1\stempowskiLab2_2.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\Dev.Build\GrandCircus\Labs\lab2_2\stempowskiLab2_2\bin\Debug\netcoreapp3.1\stempowskiLab2_2.exe
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\Dev.Build\GrandCircus\Labs\lab2_2\stempowskiLab2_2\bin\Debug\netcoreapp3.1\stempowskiLab2_2.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\Dev.Build\GrandCircus\Labs\lab2_2\stempowskiLab2_2\bin\Debug\netcoreapp3.1\stempowskiLab2_2.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\Dev.Build\GrandCircus\Labs\lab2_2\stempowskiLab2_2\bin\Debug\netcoreapp3.1\stempowskiLab2_2.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\Dev.Build\GrandCircus\Labs\lab2_2\stempowskiLab2_2\bin\Debug\netcoreapp3.1\stempowskiLab2_2.dll
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\Dev.Build\GrandCircus\Labs\lab2_2\stempowskiLab2_2\bin\Debug\netcoreapp3.1\stempowskiLab2_2.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\Dev.Build\GrandCircus\Labs\lab2_2\stempowskiLab2_2\obj\Debug\netcoreapp3.1\stempowskiLab2_2.csprojAssemblyReference.cache
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\Dev.Build\GrandCircus\Labs\lab2_2\stempowskiLab2_2\obj\Debug\netcoreapp3.1\stempowskiLab2_2.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\Dev.Build\GrandCircus\Labs\lab2_2\stempowskiLab2_2\obj\Debug\netcoreapp3.1\stempowskiLab2_2.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\Dev.Build\GrandCircus\Labs\lab2_2\stempowskiLab2_2\obj\Debug\netcoreapp3.1\stempowskiLab2_2.dll
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\Dev.Build\GrandCircus\Labs\lab2_2\stempowskiLab2_2\obj\Debug\netcoreapp3.1\stempowskiLab2_2.pdb

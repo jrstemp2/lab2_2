@@ -9,18 +9,26 @@ namespace stempowskiLab2_2
             Console.WriteLine("Let's work on squares and cubes!!");
             Console.WriteLine();
             string goAgain;
-            
+
             do
             {
                 Console.Write("Please enter a number: ");
                 string input = Console.ReadLine();
                 int num = int.Parse(input);
+
+                while (num <= 0)
+                {
+                    Console.WriteLine("That is not a valid number.");
+                    Console.Write("Please enter a number greater than or equal to 1: ");
+                    input = Console.ReadLine();
+                    num = int.Parse(input);
+                }
                 Console.WriteLine("Numbers" + "\t\t" + "Squared" + "\t\t" + "Cubed");
                 Console.WriteLine("======" + "\t\t" + "======" + "\t\t" + "======");
                 for (int i = 1; i <= num; i++)
                 {
                     Console.WriteLine(i + "\t\t" + (i * i) + "\t\t" + (i * i * i));
-                }    
+                }
                 Console.Write("\nWould you like to continue? (Yes/No)");
                 goAgain = Console.ReadLine();
             } while (goAgain == "yes" || goAgain == "Yes");
