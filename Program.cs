@@ -27,7 +27,7 @@ namespace stempowskiLab2_2
                 Console.WriteLine("======" + "\t\t" + "======" + "\t\t" + "======");
                 for (int i = 1; i <= num; i++)
                 {
-                    Console.WriteLine(i + "\t\t" + (i * i) + "\t\t" + (i * i * i));
+                    Console.WriteLine(String.Format("{0, 5} {1, 15} {2, 15}", i, (i * i), (i * i * i)));
                 }
                 Console.Write("\nWould you like to continue? (Yes/No)");
                 goAgain = Console.ReadLine();
